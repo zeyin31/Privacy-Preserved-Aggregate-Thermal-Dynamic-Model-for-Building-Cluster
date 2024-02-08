@@ -8,6 +8,6 @@
 2. <privacy_preserved_algorithm.m> solves the parameter estimation problem of the ATDM, while protecting the sensitive data of agents, including the indoor temperature and heating/cooling power.
 3. <myFun_GetValue.m> is a tool function that can transform the 'sdpvar' to 'value'.
 4. <welldata.mat> is the raw data, containing the information of buildings and their surrounding environment.
-5. <npp_data.mat> collects the results of running <non_privacy_preserved_algorithm.m>.
-6. <pp_data.mat> collects the results of running <privacy_preserved_algorithm.m>.
+5. <npp_data.mat> records the results of running <non_privacy_preserved_algorithm.m>.
+6. <pp_data.mat> records the results of running <privacy_preserved_algorithm.m>.
 7. <result.m> outputs the final results.
