@@ -11,3 +11,4 @@
 5. <npp_data.mat> records the results of running <non_privacy_preserved_algorithm.m>.
 6. <pp_data.mat> records the results of running <privacy_preserved_algorithm.m>.
 7. <result.m> outputs the final results.
+# The readers can simply run <result.m> to obtain relative results.
